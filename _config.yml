@@ -1,0 +1,8 @@
+title: Gerard McCann
+description: I am not an Athenian or a Greek, but a citizen of the world  - Diogenes
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
