@@ -1,5 +1,2 @@
-### About
-Cryptocurrency trading firm  
-
 ### Contact
-spectertradingllc@gmail.com
++&nbsp;&nbsp;&nbsp;&nbsp;spectertradingllc@gmail.com
